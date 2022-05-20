@@ -24,7 +24,7 @@
                       "async"                   : "0.9.0",
                       "clean-css"               : "3.4.19",
                       "uglify-js"               : "2.6.2",
-                      "formidable"              : "1.0.17",
+                      "formidable"              : "3.2.4",
                       "log4js"                  : "0.6.35",
                       "cheerio"                 : "0.20.0",
                       "async-stacktrace"        : "0.0.2",
