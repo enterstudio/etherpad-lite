@@ -26,7 +26,7 @@
                       "uglify-js"               : "2.6.2",
                       "formidable"              : "1.0.17",
                       "log4js"                  : "0.6.35",
-                      "cheerio"                 : "0.20.0",
+                      "cheerio"                 : "1.0.0",
                       "async-stacktrace"        : "0.0.2",
                       "npm"                     : "4.0.2",
                       "ejs"                     : "2.4.1",
